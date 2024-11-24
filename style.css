@@ -1,3 +1,7 @@
 :root {
     clrblue1: #007bff;
 }
+
+h1 {
+    color: var(clrblue1);
+}
